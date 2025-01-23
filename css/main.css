@@ -18,15 +18,9 @@ body {
   padding: 40px 35px;
   text-align: center;
 }
-@media (max-width: 1120px) {
-  .card {
-    height: 65vh;
-  }
-}
 @media (max-width: 768px) {
   .card {
     margin: 10px auto 0;
-    height: 70vh;
   }
 }
 .search {
